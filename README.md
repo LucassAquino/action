@@ -1,2 +1,4 @@
-# action
-Atividades do ciclo DevOps
+# Desenvolvimento de aplicações ágeis
+
+Conhecendo Git Action
+
